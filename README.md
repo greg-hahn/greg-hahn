@@ -18,38 +18,34 @@ Now I'm applying that institutional knowledge to a new problem: helping governme
 
 Most AI consultants have never worked inside a government. Most government web professionals have never built an AI agent. I've done both — and that intersection is where the most valuable, practical work gets done.
 
-**Currently open to:** AI Developer, Automation Consultant, Digital Transformation Specialist, and Prompt Engineering roles, particularly in municipal government, public-sector communications, or organizations that need AI solutions grounded in real user needs.
-
-Let's connect if you're navigating how to bring AI into a structured, compliance-heavy environment without the chaos.
+**Currently open to:** AI Developer, Automation Consultant, Digital Transformation Specialist, and Prompt Engineering roles.
 
 ---
 
 ### ⚡ Quick Facts
 
-* 🌍 I'm based in Guelph, Ontario
+* 🌍 I'm based in **Guelph, Ontario**
 * 🖥️ See my portfolio at [My GitHub](https://github.com/greg-hahn)
 * ✉️ You can contact me at [greg@greg-hahn.com](mailto:greg@greg-hahn.com)
-* 🧠 I'm currently learning AI Engineering
+* 🧠 I'm currently learning **AI Engineering**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a>&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>&nbsp;
-  <a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>&nbsp;
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" title="Next.js" width="36" height="36" /></a>
-</p>
+| | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a> | <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" /></a> | <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /></a> | <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" /></a> | <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" /></a> | <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" /></a> | <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" /></a> |
+| <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" /></a> | <a href="https://supabase.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" /></a> | <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" /></a> | <a href="https://wordpress.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" /></a> | <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" /></a> | <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" /></a> | <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" /></a> |
 
-<p align="left">
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>&nbsp;
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" /></a>&nbsp;
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" title="Node.js" width="36" height="36" /></a>&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" title="FastAPI" width="36" height="36" /></a>&nbsp;
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a>&nbsp;
-  <a 
+### Artificial Intelligence & Workflow Automation
+
+| | | | | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/412991" width="36" /></a> | <a href="https://www.anthropic.com/"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="36" /></a> | <a href="https://gemini.google.com/"><img src="https://cdn.simpleicons.org/googlegemini/8E75C2" width="36" /></a> | <a href="https://aws.amazon.com/bedrock/"><img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="36" /></a> | <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" /></a> | <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" /></a> | <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n/FF6D5A" width="36" /></a> | <a href="https://www.make.com/"><img src="https://cdn.simpleicons.org/make/6C29E3" width="36" /></a> | <a href="https://www.perplexity.ai/"><img src="https://cdn.simpleicons.org/perplexity/20B2AA" width="36" /></a> | <a href="https://replit.com/"><img src="https://cdn.simpleicons.org/replit/F26207" width="36" /></a> |
+
+### Socials
+
+| | |
+| :---: | :---: |
+| <a href="https://www.github.com/greg-hahn"><img src="https://cdn.simpleicons.org/github/181717" width="32" /></a> | <a href="https://www.linkedin.com/in/greghahn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" /></a> |
